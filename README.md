@@ -19,4 +19,3 @@ vidalmla / vidalmla is a repository ✨ special ✨ because you will find a frie
 vidalmla / vidalmla es un repositorio ✨ especial ✨ porque encontraras un amigo con el cual podras programar y reir hasta que ya no puedas 
 --->
 
-//💞️ I’m looking to collaborate on ... pendiente
